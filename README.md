@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**KarolFrame/KarolFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, my name is Carolina and I am a video game developer. My passion is the design and programming of videogames.
+Hi 👋
+my name is Carolina and I am a video game developer. My passion is the design and programming of videogames.
 
 - 🔭 I’m currently working on Veronica by ColorsRoom
 - 🌱 I’m currently learning about VR in Unity and Unreal
@@ -13,4 +9,9 @@ Hi, my name is Carolina and I am a video game developer. My passion is the desig
 -[My Portfolio](https://carolinapeseca.wixsite.com/karolframe)
 -[DystopianVideoGames](https://play.google.com/store/apps/dev?id=6363929993918603716)
 - 😄 Pronouns: she/her
+
+<!--
+**KarolFrame/KarolFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
