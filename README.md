@@ -5,8 +5,8 @@ My name is Carolina and I am a video game developer. My passion is the design an
 
 
 - 🔭 I’m currently working on Veronica by ColorsRoom
-- 🌱 I’m currently learning about VR in Unity and Unreal
-- 👯 I’m looking to collaborate on new projects about videogames or new 3D sofwares
+- 🌱 I’m currently learning Full Stack Development
+- 👯 I’m looking to collaborate on new projects
 - 💬 Ask me about Unity3D with C#
 - 📫 How to reach me: carolina.peseca@gmail.com
 - [My Portfolio](https://carolinapeseca.wixsite.com/karolframe)
