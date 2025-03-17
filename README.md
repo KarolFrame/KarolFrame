@@ -17,8 +17,9 @@ My name is Carolina and I am a video game developer. My passion is the design an
 ##  Skills:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logocolor=white&labelcolor=101010)</br>
 ![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=C#&logocolor=white&labelcolor=101010)</br>
-
-
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logocolor=white&labelcolor=101010)</br>
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logocolor=white&labelcolor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logocolor=white&labelcolor=101010)</br>
 
 <!--
 **KarolFrame/KarolFrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
