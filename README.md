@@ -1,5 +1,5 @@
 #  Hi 👋
-My name is Carolina and I am a video game developer. My passion is the design and programming of videogames.
+My name is Carolina and I am a Full-Stack Software Developer and Video Game Developer. My passion is the design and programming of videogames.
 
 ![banner](https://github.com/KarolFrame/KarolFrame/assets/97622225/ac023b05-f771-45d0-a634-6b0c5a8bb11d)
 
@@ -7,7 +7,7 @@ My name is Carolina and I am a video game developer. My passion is the design an
 - 🔭 I’m currently working on Veronica by ColorsRoom
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about Unity3D with C#
+- 💬 Ask me about Unity3D with C# and HTML, CSS and JS
 - 📫 How to reach me: carolina.peseca@gmail.com
 - [Itch.io](https://karolframe.itch.io)
 - 😄 Pronouns: she/her
