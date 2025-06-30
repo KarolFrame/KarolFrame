@@ -1,5 +1,5 @@
 #  Hi 👋
-My name is Carolina and I am a Full-Stack Software Developer and Video Game Developer. My passion is the design and programming of videogames.
+Hi, I'm Carolina, a Frontend Developer and Game Programmer passionate about crafting intuitive interfaces and interactive digital experiences, both on the web and in games.
 
 ![banner](https://github.com/KarolFrame/KarolFrame/assets/97622225/ac023b05-f771-45d0-a634-6b0c5a8bb11d)
 
