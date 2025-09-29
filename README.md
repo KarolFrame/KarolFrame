@@ -1,3 +1,4 @@
+![Banner](./github-header-banner.png)
 # Hi 👋
 Hi, I'm **Carolina Pérez**, a **Frontend Developer** passionate about creating **clean, responsive, and interactive web experiences**. I love **learning new technologies**, solving problems, and making interfaces **intuitive and user-friendly**.  
 
