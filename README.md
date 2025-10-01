@@ -92,7 +92,7 @@ Hi, I'm **Carolina Pérez**, a **Frontend Developer** passionate about creating 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolFrame&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karolframe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KarolFrame&icon=5&color=11)](https://visitcount.itsvg.in)
