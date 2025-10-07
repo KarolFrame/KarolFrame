@@ -88,11 +88,3 @@ Hi, I'm **Carolina Pérez**, a **Frontend Developer** passionate about creating 
 ![Godot](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karolframe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KarolFrame&icon=5&color=11)](https://visitcount.itsvg.in)
